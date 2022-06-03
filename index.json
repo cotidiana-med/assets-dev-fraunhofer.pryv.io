@@ -1,7 +1,7 @@
 { 
   "baseUrl": null,
   "favicon": {
-    "default": {"url": "favicon.ico"}
+    "default": {"url": "00-Cotidiana_icon.ico"}
   },
   "css": {
     "default": {"url": "default.css"}
